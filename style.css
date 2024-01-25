@@ -927,10 +927,10 @@ Media Query section start
   .header{
     padding: 0 3.2rem;
   }
-
-  /* .hero-heading{
-    font-size: 5rem;
-  } */
+  .hero-heading{
+    text-align: center;
+  }
+  
   .section-services .grid-three-column{
     grid-template-columns: 1fr;
   }
