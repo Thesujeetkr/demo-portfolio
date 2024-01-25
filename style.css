@@ -919,7 +919,7 @@ Media Query section start
 
 @media (max-width:560px) {
   html{
-    font-size: 45%;
+    font-size: 43%;
   }
   .header{
     padding: 0 3.2rem;
@@ -955,8 +955,8 @@ Media Query section start
 /* below 380px */
 
 @media (max-width:380px){
-  html{
-    font-size: 30%;
+  .hero-heading{
+    font-size: 2rem;
   }
 }
 
