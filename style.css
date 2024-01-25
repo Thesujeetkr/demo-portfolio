@@ -883,6 +883,9 @@ Media Query section start
   .section-hero-data{
     align-items: center;
   }
+  .hero-heading{
+    text-align: center;
+  }
   .hero-para{
     text-align: center;
   }
