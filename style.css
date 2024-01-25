@@ -956,7 +956,7 @@ Media Query section start
 
 @media (max-width:380px){
   html{
-    font-size: 35%;
+    font-size: 30%;
   }
 }
 
