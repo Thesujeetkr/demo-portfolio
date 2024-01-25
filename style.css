@@ -955,8 +955,8 @@ Media Query section start
 /* below 380px */
 
 @media (max-width:380px){
-  .hero-heading{
-    font-size: 2rem;
+  html{
+    font-size: 30%;
   }
 }
 
