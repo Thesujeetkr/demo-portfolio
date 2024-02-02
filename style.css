@@ -78,7 +78,7 @@ Header Section Start
   justify-content: space-between;
   align-items: center;
 }
-/* .logo {
+.logo {
   background-color: black;
   font-size: 2.5rem;
   font-weight: 700;
@@ -86,7 +86,7 @@ Header Section Start
   color: var(--white);
   padding: 1rem 1.4rem;
   letter-spacing: 0.4rem;
-} */
+}
 
 .navbar-list {
   display: flex;
